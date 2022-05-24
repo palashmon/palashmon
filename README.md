@@ -32,7 +32,9 @@
 ---      
       
   ### My GitHub Stats
-  ![palashmon's gitHub stats](https://github-readme-stats.vercel.app/api?username=palashmon&show_icons=true&theme=radical)   
+  ![palashmon's gitHub stats](https://github-readme-stats.vercel.app/api?username=palashmon&show_icons=true&theme=radical)  
+   
+  ![palashmon's top-langs used](https://github-readme-stats.vercel.app/api/top-langs?username=palashmon&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical)     
    
   ### Profile Visit Count   
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=palashmon.palashmon)
