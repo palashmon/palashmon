@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     <p></p>  
     <a href="https://stackoverflow.com/users/1823841/pala%d1%95%d0%bd"><img src="https://stackoverflow.com/users/flair/1823841.png" width="208" height="58" alt="profile for palaѕн at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for palaѕн at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>  
   </div>
@@ -32,9 +32,9 @@
 ---      
       
   ### My GitHub Stats
-  ![palashmon's gitHub stats](https://github-readme-stats.vercel.app/api?username=palashmon&show_icons=true&theme=radical)  
+  ![palashmon's gitHub stats](https://github-readme-stats.vercel.app/api?username=palashmon&show_icons=true&theme=radical&hide_border=true)  
    
-  ![palashmon's top-langs used](https://github-readme-stats.vercel.app/api/top-langs?username=palashmon&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical)     
+  <a href="https://github.com/palashmon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=palashmon&theme=radical&hide_border=true" /></a>     
    
   ### Profile Visit Count   
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=palashmon.palashmon)
